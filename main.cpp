@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//taller-clase-19
 int main() {
   int arreglo1[5]={3,2,1,5,4};
   int i,j,aux,min;
